@@ -25,6 +25,7 @@ const PROVIDERS = [
   "https://vidsrc.xyz",
   "https://vidsrc.in",
   "https://vidsrc.pm",
+  "https://vidsrcme.ru",
   "https://vidsrc.net",
 ];
 
